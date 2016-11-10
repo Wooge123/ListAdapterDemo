@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListAdapterDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="game">
+        <item>最后一战：星环战役</item>
+        <item>火影忍者：破碎的羁绊</item>
+        <item>吉他英雄：世界巡回</item>
+        <item>极速快感：卧底风云</item>
+    </string-array>
+    <string-array name="language">
+        <item>C++语言</item>
+        <item>Java语言</item>
+        <item>PHP语言</item>
+        <item>Basic语言</item>
+    </string-array>
+
+</resources>
